@@ -1,0 +1,13 @@
+# Secrets
+.env
+*.env
+
+# Python environment and cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated or private data
+faiss_index/
+memory.json
